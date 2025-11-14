@@ -1,0 +1,19 @@
+# In .gitignore
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite3
+*.log
+*.egg-info/
+.env.*
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+# Docker stuff
+airflow/logs/
+airflow/tmp/
+
